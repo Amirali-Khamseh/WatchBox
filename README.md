@@ -1,6 +1,6 @@
 # WatchBox
 ### Modern JavaScript-Based Application for Previewing Latest Movies and Shows
-Discover the latest movies and TV shows with our modern JavaScript-based application, designed to provide previews and detailed information. Built on the TMDB API, this application offers an up-to-date and seamless entertainment experience.
+Discover the latest movies and TV shows with our modern JavaScript-based application, designed to provide previews and detailed information. Built on the top of the TMDB API, this application offers an up-to-date and seamless entertainment experience.
 
 
 ### Features :
