@@ -59,10 +59,12 @@ async function displayPopularMovie() {
         <div class="card-body">
           <h5 class="card-title">${movie.title}</h5>
           <p class="card-text">
-            <small class="text-muted">Release: ${movie.release_date}</small>
+            <small class="text-muted">⭐${movie.vote_average.toFixed(1)}/10</small>
           </p>
         </div>
      `
+    //  <small class="text-muted"> ⭐${movie.vote_average.toFixed(1)}/10 </small>
+    //  document.querySelector('#popular-movies').
     document.querySelector('#popular-movies').appendChild(div)
   })
 }
@@ -165,7 +167,7 @@ async function displayPopularShow() {
         <div class="card-body">
           <h5 class="card-title">${show.name}</h5>
           <p class="card-text">
-            <small class="text-muted">Release: ${show.first_air_date}</small>
+          <small class="text-muted">⭐${show.vote_average.toFixed(1)}/10</small>
           </p>
         </div>
      `
@@ -250,9 +252,9 @@ function initSwiper() {
     slidesPerView: 1,
     spaceBetween: 30,
     freeMode: true,
-    loop: true,
+    loop: false,
     autoplay: {
-      delay: 4000,
+      delay: 2500,
       disableOnInteraction: false,
     },
     breakpoints: {

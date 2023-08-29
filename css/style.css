@@ -12,7 +12,7 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Manrope', sans-serif;
   font-size: 16px;
   background: var(--color-primary);
   color: #fff;
@@ -130,10 +130,13 @@ ul {
   width: 100%;
 }
 
-.card-body {
+.card {
   padding: 10px;
   font-size: 20px;
+
 }
+
+
 
 .card:hover {
   transform: scale(1.05);
@@ -238,8 +241,7 @@ section h2 {
   margin-top: 20px;
 }
 
-.details-bottom {
-}
+.details-bottom {}
 
 .details-bottom li {
   margin: 15px 0;
