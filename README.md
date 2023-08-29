@@ -11,9 +11,13 @@ Discover the latest movies and TV shows with our modern JavaScript-based applica
  
 
 
+![image](https://github.com/Amirali-Khamseh/WatchBox/assets/72108341/db631e93-59f9-4180-8dd9-fe9c5baf0ba4)
+![image](https://github.com/Amirali-Khamseh/WatchBox/assets/72108341/0257f8af-2f12-4daf-bef1-c57b2dce5ab1)
+
+*Index page*
+>![image](https://github.com/Amirali-Khamseh/WatchBox/assets/72108341/36d07814-fada-499f-a75f-08c9349caaa4)
+*Details page*
+
 ## Upcoming
 
 >In the upcoming versions of this application, I am planning to add backend logic for authenticating and authorizing users, enabling them to create playlists of the movies or series they enjoy or would like to watch.
-![image](https://github.com/Amirali-Khamseh/WatchBox/assets/72108341/db631e93-59f9-4180-8dd9-fe9c5baf0ba4)
->![image](https://github.com/Amirali-Khamseh/WatchBox/assets/72108341/36d07814-fada-499f-a75f-08c9349caaa4)
-
