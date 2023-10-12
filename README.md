@@ -1,7 +1,7 @@
 # WatchBox
-# Live demo -> https://watchbox-amirkhamseh.netlify.app/
+*** Live demo : *** https://watchbox-amirkhamseh.netlify.app/
 ### Modern JavaScript-Based Application for Previewing Latest Movies and Shows
-Discover the latest movies and TV shows with our modern JavaScript-based application, designed to provide previews and detailed information. Built on the top of the TMDB API, this application offers an up-to-date and seamless entertainment experience.
+Explore the latest movies and TV shows through WatchBox , an innovative JavaScript-based app. Previews and detailed insights all at once . Leveraging the TMDB API.
 
 
 ### Features :
